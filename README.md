@@ -80,6 +80,18 @@ Resultado esperado:
 ![image](assets/git-branch.png)
 
 
+Depois de fazer checkout na branch nova e adicionar a modificação, o seu código precisa ser integrado na branch principal. Para isso você precisará fazer o commit da alteração na branch paralela, fazer checkout na principal e depois puxar alterações para a branch principal com o comando:
+```
+git merge 
+```
+
+⚠️ Cabe ressaltar que o mais comum é que essa passagem seja feita via ```Pull Request (Github)``` ou ```Merge Request (Gitlab)```. Caso não sabia, mas esse processo é implementado para que uma aprovação seja feita antes da mesclagem de códigos.
+
+## Como deletar um  branch?
+```
+git branch -d <branch-name>
+```
+
 ## Como ver todas as versões novamente?
 ```
 git reflog
