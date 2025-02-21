@@ -87,6 +87,24 @@
       "ordinal": 2,
       "visualContainers": [
         {
+          "config": "{\"name\":\"67fef0b7dadf3ee82549\",\"layouts\":[{\"id\":0,\"position\":{\"x\":326.8085106382979,\"y\":0,\"z\":2,\"width\":299.5744680851064,\"height\":299.5744680851064}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Sum(sales specialoffer.minqty)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"s\",\"Entity\":\"sales specialoffer\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"s\"}},\"Property\":\"minqty\"}},\"Function\":0},\"Name\":\"Sum(sales specialoffer.minqty)\",\"NativeReferenceName\":\"Sum of minqty\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"s\"}},\"Property\":\"minqty\"}},\"Function\":0}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 299.57,
+          "width": 299.57,
+          "x": 326.81,
+          "y": 0.00,
+          "z": 2.00
+        },
+        {
+          "config": "{\"name\":\"ec3dcc7a37884086e909\",\"layouts\":[{\"id\":0,\"position\":{\"x\":691.5501519756839,\"y\":0,\"z\":3,\"width\":588.4498480243161,\"height\":719.7568389057751}}],\"singleVisual\":{\"visualType\":\"tableEx\",\"projections\":{\"Values\":[{\"queryRef\":\"sales specialoffer.description\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"s\",\"Entity\":\"sales specialoffer\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"s\"}},\"Property\":\"description\"},\"Name\":\"sales specialoffer.description\",\"NativeReferenceName\":\"description\"}]},\"drillFilterOtherVisuals\":true}}",
+          "filters": "[]",
+          "height": 719.76,
+          "width": 588.45,
+          "x": 691.55,
+          "y": 0.00,
+          "z": 3.00
+        },
+        {
           "config": "{\"name\":\"fb1cb2af8a62fa9584ec\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":1,\"width\":299.5744680851064,\"height\":299.5744680851064}}],\"singleVisual\":{\"visualType\":\"pieChart\",\"projections\":{\"Category\":[{\"queryRef\":\"sales specialoffer.category\",\"active\":true}],\"Y\":[{\"queryRef\":\"CountNonNull(sales specialoffer.category)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"s\",\"Entity\":\"sales specialoffer\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"s\"}},\"Property\":\"category\"},\"Name\":\"sales specialoffer.category\",\"NativeReferenceName\":\"category\"},{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"s\"}},\"Property\":\"category\"}},\"Function\":5},\"Name\":\"CountNonNull(sales specialoffer.category)\",\"NativeReferenceName\":\"Count of category\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"s\"}},\"Property\":\"category\"}},\"Function\":5}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
           "filters": "[]",
           "height": 299.57,
