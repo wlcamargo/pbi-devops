@@ -92,21 +92,13 @@ git merge
 git branch -d <branch-name>
 ```
 
-## Como ver todas as versões novamente?
+## Como voltar para uma versão de forma definitiva?
 ```
-git reflog
+git reset --hard <hash do commit>
 ```
 
-Resultado esperado:
+⚠️ Atenção que esse comando apaga tudo que foi feito depois do commit e de forma definitiva.
 
-![image](assets/git-reflog.png)
-
-
-⚠️ Veja o id do commit que deseja voltar e volte com o comando:
- 
-```
-git checkout <id_da_hash>
-```
 
 ## Como enviar o projeto para o Github (ou o seu hub de códigos)
 ```
