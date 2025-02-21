@@ -56,6 +56,7 @@ Resultado esperado:
 
 ![image](assets/git-log.png)
 
+
 ## Como voltar para um commit específico?
 ```
 git checkout <hash do commit>
@@ -87,6 +88,9 @@ git merge
 
 ⚠️ Cabe ressaltar que o mais comum é que essa passagem seja feita via ```Pull Request (Github)``` ou ```Merge Request (Gitlab)```. Caso não sabia, mas esse processo é implementado para que uma aprovação seja feita antes da mesclagem de códigos.
 
+## ❌ Conflitos no git
+Se o mesmo arquivo for alterado em branchs diferentes, o git vai identificar um conflito na hora do merge e será necessário que você escolha qual a versão do código que vale.
+
 ## Como deletar um  branch?
 ```
 git branch -d <branch-name>
@@ -99,8 +103,13 @@ git reset --hard <hash do commit>
 
 ⚠️ Atenção que esse comando apaga tudo que foi feito depois do commit e de forma definitiva.
 
+## Sincronização com o Github (ou o seu hub de códigos)
+Será necessário primeiro criar um repositório no seu hub e depois criar um vínculo com o repositório local.
 
-## Como enviar o projeto para o Github (ou o seu hub de códigos)
+## Como vincular um repositório local com o remoto?
+git remote add origin https://github.com/wlcamargo/pbi-devops.git
+
+## Como enviar o código para o hub?
 ```
 git push
 ```
