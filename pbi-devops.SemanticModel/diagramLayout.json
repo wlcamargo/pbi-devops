@@ -1,0 +1,295 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 3165.022688598739,
+            "y": 683.862203983952
+          },
+          "nodeIndex": "humanresources department",
+          "nodeLineageTag": "4bdfc4f3-2c9d-4827-b3fc-b095d00bdb53",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3449.022688598739,
+            "y": 621.862203983952
+          },
+          "nodeIndex": "sales salesorderheader",
+          "nodeLineageTag": "576d0dac-ed51-4a3f-85f5-9181c5095cdb",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1765.022688598739,
+            "y": 356.3967150981432
+          },
+          "nodeIndex": "sales countryregioncurrency",
+          "nodeLineageTag": "3825ee0c-6780-46d1-88a3-1f040f822806",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 622.49706514077388,
+            "y": 1095.2044613816793
+          },
+          "nodeIndex": "sales creditcard",
+          "nodeLineageTag": "e9e5d0ba-eb8f-48ee-9c83-a109d2bdee87",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1477.9337916403852,
+            "y": 459.4316882611779
+          },
+          "nodeIndex": "sales currency",
+          "nodeLineageTag": "80cd6499-7d11-46cf-817b-b8c1a7b0a452",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1190.8378277989464,
+            "y": 504.18499610149865
+          },
+          "nodeIndex": "sales currencyrate",
+          "nodeLineageTag": "adcb943e-44f4-4d18-a071-f9946507d602",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 140.03334062840781,
+            "y": 798.37927413092734
+          },
+          "nodeIndex": "sales customer",
+          "nodeLineageTag": "ee9c829b-944c-452f-881d-eaf41241f284",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 865.23560103348314,
+            "y": 1381.724407967904
+          },
+          "nodeIndex": "sales personcreditcard",
+          "nodeLineageTag": "6639605e-e49f-4c8d-8e6b-32fcd2f17d4f",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 903.73970602839586,
+            "y": 388.03334057844245
+          },
+          "nodeIndex": "sales salesorderdetail",
+          "nodeLineageTag": "9b3d6be9-09d2-4ce5-92cb-2a8dc07667dd",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 712.05455149942122,
+            "y": 741.74363697489957
+          },
+          "nodeIndex": "sales salesorderheader (2)",
+          "nodeLineageTag": "f8f46acc-e887-4294-9a33-85864339ce2f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 968.87855572927515,
+            "y": 1094.7539102194453
+          },
+          "nodeIndex": "sales salesorderheadersalesreason",
+          "nodeLineageTag": "7fcf621f-d7f0-49fd-ac68-496187fe2502",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 331.61611420507165,
+            "y": 243.25889553740024
+          },
+          "nodeIndex": "sales salesperson",
+          "nodeLineageTag": "0107faea-2cbd-41d1-a1fb-84f0deec1006",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 212.58448852827405,
+            "y": -10
+          },
+          "nodeIndex": "sales salespersonquotahistory",
+          "nodeLineageTag": "ac40c91e-1da8-4816-98ff-796f40105012",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1152.6676740441594,
+            "y": 1299.1039027283214
+          },
+          "nodeIndex": "sales salesreason",
+          "nodeLineageTag": "0adebead-d7c1-4130-9620-40985d515e6b",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2607.022688598739,
+            "y": 647.862203983952
+          },
+          "nodeIndex": "sales salestaxrate",
+          "nodeLineageTag": "64f4f348-91c6-4d29-ad79-dd36a5825a8f",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 424.95737712979121,
+            "y": 592.862457454715
+          },
+          "nodeIndex": "sales salesterritory",
+          "nodeLineageTag": "5276aacf-9ccc-4956-8529-5be25e45d6a5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 242.16877239775613
+          },
+          "nodeIndex": "sales salesterritoryhistory",
+          "nodeLineageTag": "9b33bc54-57c6-480f-8b60-6a862249d777",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2891.022688598739,
+            "y": 659.862203983952
+          },
+          "nodeIndex": "sales shoppingcartitem",
+          "nodeLineageTag": "55f21c36-c4d6-49c2-9d2e-40d7a8031086",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2333.022688598739,
+            "y": 611.862203983952
+          },
+          "nodeIndex": "sales specialoffer",
+          "nodeLineageTag": "59c14149-6f47-4d75-9df9-b9ae6f7da863",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2049.022688598739,
+            "y": 673.862203983952
+          },
+          "nodeIndex": "sales specialofferproduct",
+          "nodeLineageTag": "dc803018-c26a-4150-b657-78f0ed22e453",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 44.576515045820088,
+            "y": 521.74855148942152
+          },
+          "nodeIndex": "sales store",
+          "nodeLineageTag": "a56e8e9e-49d4-47df-9b80-f92e66d13d52",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

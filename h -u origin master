@@ -1,0 +1,21 @@
+[33m24e30ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: checkout: moving from 24e30ea8b0f0c8b642544eec39696a5dc26d459f to master
+[33m24e30ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{1}: checkout: moving from master to 24e30ea8b0f0c8b642544eec39696a5dc26d459f
+[33m24e30ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{2}: checkout: moving from master to master
+[33m24e30ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{3}: checkout: moving from b43ab5ab0fa73d4e3dd1ce4867c406c76563b603 to master
+[33mb43ab5a[m HEAD@{4}: commit: update README with git reflog instructions and developer information
+[33mcfb776f[m HEAD@{5}: checkout: moving from 7222f95ef2ae76fffd11bc199e6a81d4dcd402e9 to cfb776f
+[33m7222f95[m HEAD@{6}: checkout: moving from cfb776ffb9138e379811e5c241f091edb3e0a0de to 7222f95
+[33mcfb776f[m HEAD@{7}: commit: add description on readme
+[33m5ec8ec4[m HEAD@{8}: checkout: moving from 7c5217f2c6a6f418ce33bf28adbb6e78c354cdc7 to 5ec8ec4
+[33m7c5217f[m HEAD@{9}: checkout: moving from 5ec8ec4b477fa8c9d18e131c9d5ed27071355b65 to 7c5217f
+[33m5ec8ec4[m HEAD@{10}: commit: add card total sales
+[33m48c0a16[m HEAD@{11}: commit: add documentation
+[33m7c5217f[m HEAD@{12}: checkout: moving from d15f69bb2f391467a549c1e00f9d2a8cdb2835de to 7c5217f
+[33md15f69b[m HEAD@{13}: checkout: moving from master to d15f69b
+[33m24e30ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{14}: commit: add card total sales
+[33m7c5217f[m HEAD@{15}: commit: add nwe page
+[33m12b7e39[m HEAD@{16}: commit: add source sales
+[33m94a8d92[m HEAD@{17}: commit: add pie chart
+[33m7e7c44a[m HEAD@{18}: commit: add chart table
+[33md15f69b[m HEAD@{19}: commit: add source humanresource department
+[33m7222f95[m HEAD@{20}: commit (initial): initial commit
