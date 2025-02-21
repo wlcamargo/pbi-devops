@@ -112,8 +112,14 @@ git remote add origin https://github.com/wlcamargo/pbi-devops.git
 ```
 
 ## Como enviar o código para o hub?
+No primeiro push:
 ```
 git push --set-upstream origin main
+```
+
+A partir da segunda vez, basta realizar o comando:
+```
+git push
 ```
 
 ## 📚 Referências
