@@ -61,6 +61,25 @@ Resultado esperado:
 git checkout <hash do commit>
 ```
 
+⚠️ Esse comando vai te levar o momento que a commit escolhido foi feito. Cabe ressaltar que ele apenas te direciona para essa branch, mas não apaga tudo que foi feito depois. Esse comando serve apenas para você avaliar como era o projeto naquele momento. 
+
+## O que são branches?
+São separações do seu projeto em ramificações.
+
+## Criar uma branch nova
+```
+git branch feature/add_new_feature
+```
+
+## Como ver todas as branches?
+```
+git branch
+```
+
+Resultado esperado:
+![image](assets/git-branch.png)
+
+
 ## Como ver todas as versões novamente?
 ```
 git reflog
