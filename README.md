@@ -107,11 +107,13 @@ git reset --hard <hash do commit>
 Será necessário primeiro criar um repositório no seu hub e depois criar um vínculo com o repositório local.
 
 ## Como vincular um repositório local com o remoto?
+```
 git remote add origin https://github.com/wlcamargo/pbi-devops.git
+```
 
 ## Como enviar o código para o hub?
 ```
-git push
+git push --set-upstream origin main
 ```
 
 ## 📚 Referências
